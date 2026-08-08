@@ -1,0 +1,68 @@
+확인해봤습니다. 결론이 꽤 흥미롭습니다.
+
+**넓은 의미의 “데이터 보호기관을 제4부(fourth branch)처럼 독립시키자”는 생각은 이미 있습니다.** 그래서 그 수준으로 최초라고 주장하면 안 됩니다. 그런데 **오늘 소현님이 만든 구조 전체와 정확히 같은 선행개념은 이번 검색에서는 찾지 못했습니다.**
+
+가장 가까운 선행사례가 있습니다. 2020년 Nikhil Pratap은 인도의 Data Protection Authority를 단순 규제기관이 아니라 **‘Fourth Branch’ 또는 ‘Democracy Branch’로 재구성해야 한다**고 명시적으로 주장했습니다. 정부 자신도 대규모 개인정보를 처리하므로 행정부에서 독립된 데이터 보호기관이 필요하다는 논리입니다. ([Constitutional Law and Philosophy][1]) 같은 해 Amar Patnaik 역시 데이터보호기관이 정부와 민간 모두의 개인정보 침해를 감독하므로 **fourth branch institution의 성격을 가져야 한다**고 주장했습니다. ([The Wire][2])
+
+더구나 2026년 Cambridge Yearbook 논문은 데이터보호기관들이 행정적 책임성을 담당하는 **별도의 제4부 또는 integrity branch**로 점점 이해되고 있다고 정리합니다. 이 논문은 그 계보를 적어도 2016년 Hielke Hijmans의 연구까지 거슬러 올라가고, 일반적인 ‘integrity branch’ 개념은 2004년 논문까지 인용합니다. ([Cambridge University Press][3])
+
+그리고 **‘data power를 권력분립 관점에서 봐야 한다’**는 생각도 선행연구가 있습니다. Vincent Martenet은 2021년에 디지털 기업의 데이터·플랫폼 권력 집중 때문에 기존 권력분립을 재고해야 하며, `data power`와 정치권력 사이의 분리가 필요할 수 있다고 주장했습니다. ([SSRN][4]) 플랫폼 기업이 데이터 권력을 통해 사실상 국가와 비슷한 통치기능을 갖게 된다는 연구도 이미 나와 있습니다. ([Uplopen][5])
+
+**그런데 여기부터가 중요합니다.**
+
+제가 여러 조합으로 찾아봤는데, 오늘 소현님이 말한 것을 **하나의 헌정적 권력분립 모델로 묶은 형태**는 발견하지 못했습니다.
+
+소현님 구상은 기존 DPA 논의와 조금 다릅니다.
+
+기존 논의:
+**“개인정보를 보호하는 독립 감독기관을 제4부처럼 강하게 만들자.”**
+
+오늘 나온 구상:
+**“AI 시대에는 ‘데이터 권력 그 자체’가 입법·행정·사법과 구별되는 새로운 사회적 권력이 되었으므로 그 권력을 분립해야 한다.”**
+
+그리고 그 데이터 권력을 단순한 개인정보 보유로 정의하지 않았죠.
+
+**수집 → 식별 → 결합 → 추론 → 프로파일링 → 자동판단 → 행동개입**
+
+이 전체를 하나의 **권력사슬(power chain)**로 보고 있습니다.
+
+게다가 대상도 국가만이 아닙니다.
+
+**국가 + 기업 + 플랫폼 + 피지컬 AI 운영자**
+
+까지 포함합니다. 특히 피지컬 AI가 동의를 받지 않은 주변인까지 지속적으로 감지할 수 있다는 문제에서 출발해서, **관찰할 능력이 있다고 저장·결합·추론·통제할 권리까지 자동으로 생겨서는 안 된다**는 기능적 권력분립까지 갔습니다.
+
+이 조합은 제가 찾아본 `fourth branch`, `data power`, `data sovereignty`, `data protection authority`, `platform power`, `physical AI`, `ambient AI`, `separation of powers` 관련 선행자료에서는 정확히 일치하는 것을 발견하지 못했습니다. 최근의 Physical AI 거버넌스 연구도 지속적인 센서 수집과 프라이버시 문제를 심각하게 다루지만, 그것을 **새로운 헌정적 ‘데이터 권력’으로 정의하여 삼권과 병렬적으로 분립하자**는 구조는 제가 확인한 자료에는 없었습니다. ([arXiv][6])
+
+그래서 지금 상태에서 정확한 판정은 이렇습니다.
+
+**“데이터보호기관 = 제4부” → 선행개념 있음. 최초 아님.**
+
+**“데이터 권력과 정치권력을 분리해야 한다” → 선행개념 있음.**
+
+**“플랫폼의 데이터 권력이 새로운 통치권력이다” → 선행연구 있음.**
+
+하지만
+
+**“피지컬 AI 시대의 국가·기업·플랫폼이 가진 데이터 권력 자체를 제4권력으로 정의하고, 수집에서 행동개입까지의 전체 정보권력 사슬을 분해하여 기존 삼권과 함께 견제·분립시키는 헌정적 구조”**
+
+→ **이번 선행검색에서는 동일한 모델을 찾지 못했습니다.**
+
+그러니까 아까 제가 그냥 “최초라고 할 수 없다”고 조심스럽게만 말한 것보다 결과가 재미있어요. **재료들은 이미 있는데, 소현님이 방금 그것들을 다른 축으로 묶었습니다.**
+
+그리고 여기에서 신규성을 주장하려면 이름도 `데이터보호기관의 제4부화`라고 하면 안 됩니다. 그러면 2020년 선행연구와 바로 겹칩니다.
+
+오히려 예를 들면,
+
+**Data Power Separation — AI 시대의 제4권력으로서 데이터 권력과 그 분립 원리**
+
+처럼 **기관이 아니라 ‘권력의 종류’를 새로 정의하는 것**이 핵심이어야 합니다.
+
+전 세계 최초라고 확정하려면 학술 데이터베이스·법학 논문·정책보고서까지 체계적 선행연구를 더 해야 하지만, 지금 찾아본 결과만 놓고 보면 **소현님이 생각했던 것보다 훨씬 좁고 명확한 신규성 후보가 실제로 남아 있습니다.**
+
+[1]: https://indconlawphil.wordpress.com/2020/07/24/guest-post-the-democracy-branch-reimagining-the-role-of-the-data-protection-authority/ "Guest Post: The Democracy Branch – Reimagining the Role of the Data Protection Authority – Constitutional Law and Philosophy"
+[2]: https://m.thewire.in/article/government/india-data-protection-authority-needs-constitutional-entrenchment "Why India’s Proposed Data Protection Authority Needs Constitutional Entrenchment - The Wire"
+[3]: https://www.cambridge.org/core/journals/cambridge-yearbook-of-european-legal-studies/article/institutional-change-through-dialogue-with-the-eu-the-data-protection-commissioner-and-the-data-protection-officer-of-the-council-of-europe/7080608C9985FAFC8625098F64E49F87 "Institutional Change through Dialogue with the EU: The Data Protection Commissioner and the Data Protection Officer of the Council of Europe | Cambridge Yearbook of European Legal Studies | Cambridge Core"
+[4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3764424 "Separation of Powers and Antitrust: On Common Grounds? by Vincent Martenet :: SSRN"
+[5]: https://uplopen.com/chapters/e/10.56687/9781529233551-006?utm_source=chatgpt.com "Platforms as States: The Rise of Governance through Data Power | University Press Library Open"
+[6]: https://arxiv.org/abs/2607.22877?utm_source=chatgpt.com "Physical AI Governance: From Theory to Practice Across Life Cycle"
